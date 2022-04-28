@@ -1,0 +1,51 @@
+body{
+    
+   background:linear-gradient(to left,blue,#5ab9ea);
+}
+
+
+
+#music{
+    background-color:inherit;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+header{ 
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    display:block;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    padding-bottom: 4px;
+    padding-top: 1px;
+    padding-left: 12px;
+    font-size: 40px;
+    
+
+}
+
+
+#external{
+    text-align: center;
+    margin: 10px;
+    background-color: inherit;
+    padding: 30px;
+    
+}
+.externally{
+    padding:20px;
+    text-align: center;
+    background-color:inherit;
+    border-radius:20px ;
+    margin-right: 10px;
+    box-shadow: 3px black;
+    font-size: 25px;
+    border: 0px;
+
+
+}
+.externally:hover{
+    background-color:lightblue ;
+}
