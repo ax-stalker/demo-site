@@ -1,0 +1,54 @@
+
+
+body{
+    background-image: linear-gradient(to left,pink,purple);
+}
+
+#head{ 
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    display:block;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    padding-bottom: 4px;
+    padding-top: 1px;
+    padding-left: 12px;
+
+}
+#articles{ 
+    text-align: center;
+    font-size: 40px;
+}
+#external{
+    text-align: center;
+    margin: 10px;
+    background-color: inherit;
+    padding: 30px;
+    
+}
+.externally{
+    padding:20px;
+    text-align: center;
+    background-color:inherit;
+    border-radius:20px ;
+    margin-right: 10px;
+    box-shadow: 3px black;
+    font-size: 25px;
+    border: 0px;
+
+
+}
+.externally:hover{
+    background-color:lightblue ;
+}
+
+footer{
+    background-color: grey;
+    border-radius:o;
+    padding-top: 10px;
+    padding-bottom:10px;
+    text-align: center;
+
+}
